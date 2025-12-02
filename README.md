@@ -275,4 +275,5 @@ This project is for educational purposes. The EMNIST dataset is provided by NIST
 
 ## Authors
 
-Created for AI class project - Handwriting recognition without advanced libraries.
+
+Created for AI class project - Nouhr Traoré and Djamila Koné.
